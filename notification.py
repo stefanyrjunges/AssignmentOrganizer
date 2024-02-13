@@ -1,3 +1,7 @@
+# Notification.py
+# @author: Stefany R Junges
+# 15/01/2024
+
 import openpyxl
 from datetime import datetime, date
 import requests
