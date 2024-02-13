@@ -2,7 +2,7 @@ import openpyxl
 from datetime import datetime, date
 import requests
 
-workbook = openpyxl.load_workbook('NAME OF THE EXCEL FILE ONLY -> example: data.xlsx') 
+workbook = openpyxl.load_workbook('NAME OF THE EXCEL FILE ONLY OR FILE PATH -> example: data.xlsx') 
 sheet = workbook.active
 date_column = sheet['C']
 assg_column = sheet['A']
