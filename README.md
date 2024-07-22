@@ -18,7 +18,7 @@ The application also includes a feature for due date notifications, checking the
 phone, reminding them of the impending deadline.
 </p>
 
-<h3>What can be found in the codes</h3>
+<h3>Project Structure</h3>
 <p align="justify">
 🖱️AssignmentOrganizer.py
   <br>
